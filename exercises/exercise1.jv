@@ -35,11 +35,7 @@ pipeline CarsPipeline {
         "ICAO" oftype text,
         "Latitude" oftype decimal,
         "Longitude" oftype decimal,
-        "Altitude" oftype integer,
-        "DST" oftype text,
-        "Zeitzone" oftype text,
-        "Zeitzonen-Datenbank" oftype text,
-        "geo_punkt" oftype text,
+        "Altitude" oftype integer
         ];
     }
 
